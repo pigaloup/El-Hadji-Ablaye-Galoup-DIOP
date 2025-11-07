@@ -1,76 +1,84 @@
 # 👋 Bienvenue sur mon Portfolio GitHub
 
-## 📊 Data Analyst | Ex-Chef d’Équipe de Production | Passionné de Décision Stratégique
+## 📊 Data Analyst | Data Engineering
 
-Bonjour ! Je suis un professionnel reconverti en Data Analyst, avec une solide expérience dans le support aux ventes, l’analyse commerciale et la visualisation de données. Mon objectif : transformer les données en leviers de performance pour les équipes commerciales et les décideurs.
-
----
 
 ## 🧠 À propos de moi
 
-- 🎯 Ancien chef d’équipe de fabrication, aujourd’hui Data Analyst certifié
-- 📈 Spécialiste de l’analyse des performances commerciales, des KPIs et des tableaux de bord
-- 🛠️ Maîtrise des outils comme Power BI, Python, SQL, Excel, Tableau, Pandas, et plus encore
-- 🤝 Expérience confirmée dans la coordination inter-départementale (Ventes, Logistique, Finance)
-- 🌍 Basé à Dakar, Sénégal — ouvert aux opportunités à distance ou internationales
-
+Chef d’équipe de fabrication reconverti en Data Analyst, je suis passionné par l’analyse des données et la prise de décisions stratégiques. Fort de plusieurs années d’expérience dans le support aux ventes et l’analyse commerciale, j’excelle dans la mise en place de procédures de collecte de données, dans l’analyse des performances et la création de tableaux de bord pour optimiser les opérations et les ventes. Mon approche analytique et ma capacité à proposer des solutions innovantes me permettent de soutenir efficacement les équipes commerciales et de contribuer à la croissance de l’entreprise.
 ---
 
-## 🚀 Projets phares
+## 🚀 Projets phares 
 
-### 📌 [Dashboard de Suivi des Ventes – Power BI](https://github.com/ton-utilisateur/dashboard-ventes-powerbi)
-> Tableau de bord interactif pour visualiser les performances commerciales par canal, produit et agent. Intègre des KPIs dynamiques, des filtres temporels et des insights automatisés.
 
-- **Technologies** : Power BI, Excel, DAX  
+### 📌 [Dashboard de Suivi des Ventes – EXCEL](https://github.com/pigaloup/DASHBORD-EXCEL)
+## Description du projet
+
+Mise en place de tableau de bord et suivi des KPIs, 
+Analyser les performances du canal de distribution, par agents, par volume de ventes, par produits, etc.
+
+- **Technologies** : Microsoft Excel   
 - **Objectif** : Optimiser la prise de décision commerciale  
-- **Résultat** : Réduction du temps d’analyse de 60 %
+- **Résultat** : Ce tableau de bord permet d'analyser les résultats des activités marketing pour appuyer les actions correctives nécessaires
 
 ---
 
-### 📌 [Analyse de Satisfaction Client – Python & Pandas](https://github.com/ton-utilisateur/analyse-satisfaction-client)
-> Traitement et visualisation des résultats d’une enquête de satisfaction client. Nettoyage des données, analyse des tendances et recommandations stratégiques.
+### 📌 [Projet ETL - Analyse Météorologique](https://github.com/pigaloup/E.T.L-Projet_M-t-o_NASA-)
+## Description du projet
 
-- **Technologies** : Python, Pandas, Matplotlib, Seaborn  
-- **Objectif** : Améliorer la perception de la marque DANO  
-- **Résultat** : Identification de 3 axes d’amélioration majeurs
+Ce projet consiste à collecter, transformer, et analyser des données météorologiques en utilisant un pipeline ETL (Extract, Transform, Load). Les données sont récupérées via l'API de NASA Power, nettoyées et transformées à l'aide de **Apache Spark** pour ensuite être stockées dans une base de données **MySQL workbench**. Le projet comprend également des étapes d'analyse statistique et de visualisation des données dans **Power BI**.
+
+- **Technologies** :  Python ,API NASA,Apache Spark,MySQL workbench, Power BI 
+- **Objectif** : Mise en place d'un pipeline ETL des données météorologiques de la NASA
+- **Résultat** : Ce projet met en œuvre un processus ETL complet de collecte, transformation, et stockage des données météorologiques.Il offre un pipeline efficace et automatisé pour analyser des données complexes et en tirer des insights pertinents.
 
 ---
 
-### 📌 [Suivi de la Présence Produit sur le Marché](https://github.com/ton-utilisateur/presence-produit-marche)
-> Projet de collecte et d’analyse de données terrain via FieldPro. Visualisation de la présence produit par région et par période.
+### 📌 [Conception et Implémentation d'un Entrepôt de Données pour MacroBus](https://github.com/pigaloup/Conception-et-Impl-mentation-d-un-Entrep-t-de-Donn-es-pour-MacroBus)
+## Description du projet
 
-- **Technologies** : FieldPro, Excel, Power BI  
-- **Objectif** : Renforcer la visibilité des produits  
-- **Résultat** : Hausse de 15 % de la présence produit en 3 mois
+MacroBus, une entreprise spécialisée dans la vente de véhicules sur plusieurs marchés, souhaite optimiser ses performances commerciales et faciliter la prise de décision à travers un système dédié. Pour ce faire nous devons mettre en place un entrepôt de données pour servir de source aux tableaux de bord décisionnels afin de piloter efficacement l’activité commerciale et analyser les commandes. 
+Parties Prenantes : PDG, Gestionnaire de base de données, Data Engineering, Data Analyst.
 
+- **Objectif** : Conception et implémentation d’un entrepôt de données permettant de répondre aux besoins décisionnels et stratégiques
+
+- **Technologies** : Microsoft Excel, Mysql Workbench,Talend, Power BI  
+  
+- **Résultat** : Optimise les performances commerciales de l'entreprise MacroBus et facilite la prise de décision à travers un système dédié 
 ---
 
 ## 🧰 Compétences techniques
 
-| Domaine             | Compétences                                                                 |
-|---------------------|------------------------------------------------------------------------------|
-| Langages            | Python, SQL                                                                  |
-| Analyse             | Excel, Pandas, Jupyter Notebook                                              |
-| Visualisation       | Power BI, Tableau, Matplotlib, Seaborn                                       |
-| Bases de données    | MySQL, MongoDB                                                               |
-| ERP & CRM           | NetSuite Oracle, FieldPro, Lengo, Georis                                     |
+| Domaine             | Compétences                                                                       |
+|---------------------|------------------------------------------------------------------------------     |
+| Langages            | Python, SQL                                                                       |
+| Analyse             | Excel, Pandas, Jupyter Notebook                                                   |
+| Visualisation       | Power BI, Tableau, Matplotlib, Seaborn,Google Looker Studio, IBM Cognos Analytics |
+| Bases de données    | MySQL, MongoDB                                                                    |
+| ERP & CRM           | NetSuite Oracle, FieldPro, Lengo, Georis                                          |
 
 ---
 
 ## 🎓 Formations clés
 
 - Certificat en Data Analysis – Université Numérique Cheikh Hamidou Kane (FORCE-N)
-- Certificat en Intelligence Artificielle – UNCHK (FORCE-N)
+- Certificat en data Engineering – Université Numérique Cheikh Hamidou Kane (FORCE-N)
+- Certificat en Intelligence Artificielle – Université Numérique Cheikh Hamidou Kane (FORCE-N)
 - Citizen Reporting Developer – Power BI (ARLA FOODS Digital Academy)
+- Chef d’équipe de Fabrication au Centre Sectoriel de Formation Professionnelle aux métiers des Industries Agroalimentaires (C.S.F.P/I.A.A)
+- Opérateur de Transformations de Céréales et Légumineuses au Centre Sectoriel de Formation Professionnelle aux métiers des Industries Agroalimentaires (C.S.F.P/I.A.A)
+- Etudiant en Physique-Chimie-Science de la Matière à l’UNIVERSITE CHEICK ANTA DIOP de DAKAR (licence 2)
+- Baccalauréat en Série S2
 
 ---
 
+
+
 ## 📫 Me contacter
 
-- 📧 Email : [votre.email@exemple.com]
-- 💼 LinkedIn : [linkedin.com/in/votreprofil](https://linkedin.com/in/votreprofil)
-- 🌐 Portfolio Web : [votre-site.com](https://votre-site.com)
-
+- 📧 Email : elhadjiablayegaloupdiop@gmail.com
+- 💼 LinkedIn : www.linkedin.com/in/ablayegaloupdiop
+- 🌐 Portfolio Web : https://pigaloup.github.io/El-Hadji-Ablaye-Galoup-DIOP/
 ---
 
 > Merci de visiter mon portfolio ! N’hésitez pas à explorer mes projets ou à me contacter pour collaborer.
