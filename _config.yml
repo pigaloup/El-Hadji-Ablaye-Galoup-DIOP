@@ -1,0 +1,8 @@
+# Configuration de GitHub Pages avec un thème Jekyll
+
+title: "El Hadji Ablaye Galoup DIOP"
+description: "Bienvenue sur mon portfolio de Data Analyst et Data Engineering"
+theme: jekyll-theme-cayman
+logo: photo.jpg
+show_downloads: true
+
