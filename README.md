@@ -77,7 +77,9 @@ Parties Prenantes : PDG, Gestionnaire de base de données, Data Engineering, Dat
 ## 📫 Me contacter
 
 - 📧 Email : elhadjiablayegaloupdiop@gmail.com
+  
 - 💼 LinkedIn : www.linkedin.com/in/ablayegaloupdiop
+  
 - 🌐 Portfolio Web : https://pigaloup.github.io/El-Hadji-Ablaye-Galoup-DIOP/
 ---
 
