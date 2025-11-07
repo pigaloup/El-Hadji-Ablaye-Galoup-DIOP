@@ -6,7 +6,7 @@
 ## 🧠 À propos de moi
 
 Chef d’équipe de fabrication reconverti en Data Analyst, je suis passionné par l’analyse des données et la prise de décisions stratégiques. Fort de plusieurs années d’expérience dans le support aux ventes et l’analyse commerciale, j’excelle dans la mise en place de procédures de collecte de données, dans l’analyse des performances et la création de tableaux de bord pour optimiser les opérations et les ventes. Mon approche analytique et ma capacité à proposer des solutions innovantes me permettent de soutenir efficacement les équipes commerciales et de contribuer à la croissance de l’entreprise.
----
+
 
 ## 🚀 Projets phares 
 
