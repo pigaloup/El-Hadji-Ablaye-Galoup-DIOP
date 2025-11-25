@@ -45,7 +45,7 @@ Parties Prenantes : PDG, Gestionnaire de base de données, Data Engineering, Dat
 - **Technologies** : Microsoft Excel, Mysql Workbench,Talend, Power BI  
   
 - **Résultat** : Optimise les performances commerciales de l'entreprise MacroBus et facilite la prise de décision à travers un système dédié 
----
+
 
 ## 🧰 Compétences techniques
 
