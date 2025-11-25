@@ -70,7 +70,7 @@ Parties Prenantes : PDG, Gestionnaire de base de données, Data Engineering, Dat
 - Etudiant en Physique-Chimie-Science de la Matière à l’UNIVERSITE CHEICK ANTA DIOP de DAKAR (licence 2)
 - Baccalauréat en Série S2
 
----
+
 
 
 
@@ -81,6 +81,6 @@ Parties Prenantes : PDG, Gestionnaire de base de données, Data Engineering, Dat
 - 💼 LinkedIn : www.linkedin.com/in/ablayegaloupdiop
   
 - 🌐 Portfolio Web : https://pigaloup.github.io/El-Hadji-Ablaye-Galoup-DIOP/
----
 
-> Merci de visiter mon portfolio ! N’hésitez pas à explorer mes projets ou à me contacter pour collaborer.
+
+## Merci de visiter mon portfolio ! N’hésitez pas à explorer mes projets ou à me contacter pour collaborer.
