@@ -35,16 +35,36 @@ Ce projet consiste à collecter, transformer, et analyser des données météoro
 ---
 
 ### 📌 [Conception et Implémentation d'un Entrepôt de Données pour MacroBus](https://github.com/pigaloup/Conception-et-Impl-mentation-d-un-Entrep-t-de-Donn-es-pour-MacroBus)
+
 ## Description du projet
 
 MacroBus, une entreprise spécialisée dans la vente de véhicules sur plusieurs marchés, souhaite optimiser ses performances commerciales et faciliter la prise de décision à travers un système dédié. Pour ce faire nous devons mettre en place un entrepôt de données pour servir de source aux tableaux de bord décisionnels afin de piloter efficacement l’activité commerciale et analyser les commandes. 
 Parties Prenantes : PDG, Gestionnaire de base de données, Data Engineering, Data Analyst.
 
 - **Objectif** : Conception et implémentation d’un entrepôt de données permettant de répondre aux besoins décisionnels et stratégiques
-
 - **Technologies** : Microsoft Excel, Mysql Workbench,Talend, Power BI  
-  
 - **Résultat** : Optimise les performances commerciales de l'entreprise MacroBus et facilite la prise de décision à travers un système dédié 
+
+### 📌 Projet : ETL Pipeline – Analyse du trafic routier (Apache Airflow, Python)
+
+## Description du projet
+
+Conception d’un pipeline ETL automatisé pour décongestionner les autoroutes nationales en consolidant des données multi-formats (CSV, TSV, Fixed-Width) issues de différents opérateurs de péage.
+Orchestration avec Apache Airflow : définition des tâches, gestion des dépendances et planification quotidienne.
+Transformation et normalisation des données pour produire un fichier unique prêt à l’analyse.
+- **Résultat** :
+
+👉 Lien vers le projet : https://github.com/ton-username/python-etl-airflow
+
+
+
+
+
+
+
+
+
+
 
 
 ## 🧰 Compétences techniques
