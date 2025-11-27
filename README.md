@@ -46,7 +46,7 @@ Parties Prenantes : PDG, Gestionnaire de base de données, Data Engineering, Dat
 - **Résultat** : Optimise les performances commerciales de l'entreprise MacroBus et facilite la prise de décision à travers un système dédié
   
 ---
-### 📌 Projet : ETL Pipeline – Analyse du trafic routier (Apache Airflow, Python)(https://github.com/pigaloup/Python-ETL-Airflow)
+### 📌 Projet : [ETL Pipeline – Analyse du trafic routier (Apache Airflow, Python)](https://github.com/pigaloup/Python-ETL-Airflow)
 
 ## Description du projet
 
