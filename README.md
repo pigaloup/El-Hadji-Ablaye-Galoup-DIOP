@@ -38,7 +38,8 @@ Ce projet consiste à collecter, transformer, et analyser des données météoro
 
 ## Description du projet
 
-MacroBus, une entreprise spécialisée dans la vente de véhicules sur plusieurs marchés, souhaite optimiser ses performances commerciales et faciliter la prise de décision à travers un système dédié. Pour ce faire nous devons mettre en place un entrepôt de données pour servir de source aux tableaux de bord décisionnels afin de piloter efficacement l’activité commerciale et analyser les commandes. 
+MacroBus, une entreprise spécialisée dans la vente de véhicules sur plusieurs marchés, souhaite optimiser ses performances commerciales et faciliter la prise de décision à travers un système dédié. 
+Ce projet consiste à  mettre en place un entrepôt de données pour servir de source aux tableaux de bord décisionnels afin de piloter efficacement l’activité commerciale et analyser les commandes. 
 Parties Prenantes : PDG, Gestionnaire de base de données, Data Engineering, Data Analyst.
 
 - **Objectif** : Conception et implémentation d’un entrepôt de données permettant de répondre aux besoins décisionnels et stratégiques
@@ -50,7 +51,7 @@ Parties Prenantes : PDG, Gestionnaire de base de données, Data Engineering, Dat
 
 ## Description du projet
 
-Conception d’un pipeline ETL automatisé pour décongestionner les autoroutes nationales en consolidant des données multi-formats (CSV, TSV, Fixed-Width) issues de différents opérateurs de péage.
+Ce pojet consiste a Concevoir un pipeline ETL automatisé pour décongestionner les autoroutes nationales en consolidant des données multi-formats (CSV, TSV, Fixed-Width) issues de différents opérateurs de péage.
 Orchestration avec Apache Airflow : définition des tâches, gestion des dépendances et planification quotidienne.
 Transformation et normalisation des données pour produire un fichier unique prêt à l’analyse.
 - **Résultat** :
