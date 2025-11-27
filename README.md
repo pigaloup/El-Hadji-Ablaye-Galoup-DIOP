@@ -43,9 +43,10 @@ Parties Prenantes : PDG, Gestionnaire de base de données, Data Engineering, Dat
 
 - **Objectif** : Conception et implémentation d’un entrepôt de données permettant de répondre aux besoins décisionnels et stratégiques
 - **Technologies** : Microsoft Excel, Mysql Workbench,Talend, Power BI  
-- **Résultat** : Optimise les performances commerciales de l'entreprise MacroBus et facilite la prise de décision à travers un système dédié 
-
-### 📌 Projet : ETL Pipeline – Analyse du trafic routier (Apache Airflow, Python)
+- **Résultat** : Optimise les performances commerciales de l'entreprise MacroBus et facilite la prise de décision à travers un système dédié
+  
+---
+### 📌 Projet : ETL Pipeline – Analyse du trafic routier (Apache Airflow, Python)(https://github.com/pigaloup/Python-ETL-Airflow)
 
 ## Description du projet
 
@@ -54,7 +55,6 @@ Orchestration avec Apache Airflow : définition des tâches, gestion des dépend
 Transformation et normalisation des données pour produire un fichier unique prêt à l’analyse.
 - **Résultat** :
 
-👉 Lien vers le projet : https://github.com/ton-username/python-etl-airflow
 
 
 
