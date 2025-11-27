@@ -51,18 +51,13 @@ Parties Prenantes : PDG, Gestionnaire de base de données, Data Engineering, Dat
 
 ## Description du projet
 
-Ce pojet consiste a Concevoir un pipeline ETL automatisé pour décongestionner les autoroutes nationales en consolidant des données multi-formats (CSV, TSV, Fixed-Width) issues de différents opérateurs de péage.
-Orchestration avec Apache Airflow : définition des tâches, gestion des dépendances et planification quotidienne.
-Transformation et normalisation des données pour produire un fichier unique prêt à l’analyse.
+Ce pojet consiste à Concevoir un pipeline ETL automatisé pour décongestionner les autoroutes nationales en consolidant des données multi-formats (CSV, TSV, Fixed-Width) issues de différents opérateurs de péage. Pour ce faire j'utilise Apache Airflow pour orchestrer un pipeline ETL complet : téléchargement, extraction multi-formats, consolidation et transformation des données pour produire un fichier unique prêt à l’analyse.
 
+- **Objectif** : collecter, transformer et consolider ces données dans un fichier unique, afin de les rendre exploitables pour les équipes d’analystes et de décideurs
+- **Technologies** : Python, Apache Airflow, Requests ,Tarfile / CSV, Pendulum
+- **Résultat** : Analyser les données de trafic routier collectées à partir de différents postes de péage
 
-
-- **Technologies** : Python ,Apache Airflow ,Requests ,Tarfile / CSV ,Pendulum
-- **Résultat** :
-
-
-
-
+---
 
 
 
