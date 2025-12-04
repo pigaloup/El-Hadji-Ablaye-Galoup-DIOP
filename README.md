@@ -67,14 +67,15 @@ Ce pojet consiste à Concevoir un pipeline ETL automatisé pour décongestionner
 ## 🧰 Compétences techniques
 
 | Domaine                       | Compétences                                                                       |
-|-------------------------------|------------------------------------------------------------------------------     |
+|-------------------------------|-----------------------------------------------------------------------------------|   
 | Langages                      | Python, SQL                                                                       |
+| Big Data & Data Processing    | Apache Spark                                                                      |
+| Orchestration & Workflow	    |Apache Airflow                                                                     |
 | Analyse                       | Excel, Pandas, Jupyter Notebook                                                   |
 | Visualisation                 | Power BI, Tableau, Matplotlib, Seaborn,Google Looker Studio, IBM Cognos Analytics |
 | Bases de données              | MySQL, MongoDB                                                                    |
 | ERP & CRM                     | NetSuite Oracle, FieldPro, Lengo, Georis                                          |
-| Big Data & Data Processing    | Apache Spark                                                                      |
-| Orchestration & Workflow	    |Apache Airflow                                                                     |
+
 
 ---
 
