@@ -23,14 +23,17 @@ Analyser les performances du canal de distribution, par agents, par volume de ve
 
 ---
 
-### 📌 [Projet ETL - Analyse Météorologique](https://github.com/pigaloup/E.T.L-Projet_M-t-o_NASA-)
+### 📌 [Projet ETL - Météo NASA avec Airflow, Spark, MySQL et Analyse Météorologique](https://github.com/pigaloup/E.T.L-Projet_M-t-o_NASA-)
 ## Description du projet
 
-Ce projet consiste à collecter, transformer, et analyser des données météorologiques en utilisant un pipeline ETL (Extract, Transform, Load). Les données sont récupérées via l'API de NASA Power, nettoyées et transformées à l'aide de **Apache Spark** pour ensuite être stockées dans une base de données **MySQL workbench**. Le projet comprend également des étapes d'analyse statistique et de visualisation des données dans **Power BI**.
+Ce projet met en place un **pipeline ETL automatisé** pour collecter, transformer et charger des données météorologiques issues de l’API **NASA POWER**.  
+L’objectif est de construire une base de données exploitable pour l’analyse climatique de plusieurs pays d’Afrique de l’Ouest (Sénégal, Mali, Côte d’Ivoire, Guinée, Nigeria, Ghana, Burkina Faso). Le pipeline est orchestré par **Apache Airflow**, qui planifie et supervise l’ensemble du processus. Les données brutes sont nettoyées et transformées grâce à **Apache Spark**, puis les résultats finalisés sont stockés dans une base de données **MySQL** pour faciliter leur exploitation et leur analyse.
 
-- **Technologies** :  Python ,API NASA,Apache Spark,MySQL workbench, Power BI 
-- **Objectif** : Mise en place d'un pipeline ETL des données météorologiques de la NASA
-- **Résultat** : Ce projet met en œuvre un processus ETL complet de collecte, transformation, et stockage des données météorologiques.Il offre un pipeline efficace et automatisé pour analyser des données complexes et en tirer des insights pertinents.
+Le projet comprend également des étapes d'analyse statistique et de visualisation des données dans Power BI.
+
+- **Technologies** :  Python, API NASA, Pandas, Apache Spark, Airflow, SQL/MySQL, Power BI 
+- **Objectif** : Mise en place d'un pipeline E.T.L des données météorologiques de la NASA
+- **Résultat** : Ce projet met en œuvre un processus E.T.L complet de collecte, transformation, et stockage des données météorologiques.Il offre un pipeline efficace et automatisé pour analyser des données complexes et en tirer des insights pertinents.
 
 ---
 
