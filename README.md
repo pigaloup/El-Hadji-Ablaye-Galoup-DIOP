@@ -82,13 +82,13 @@ Ce pojet consiste à Concevoir un pipeline ETL automatisé pour décongestionner
 ## 🎓 Formations clés
 
 - [IBM Data Engineering Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/6D664CJ5EW8F)
-- IBM Data Warehouse Engineer Professional Certificate 
-- IBM Specialization – BI Foundations with SQL, ETL and Data Warehousing
-- IBM Specialization – Data Engineering Foundations
-- IBM Specialization – NoSQL, Big Data, and Spark Foundations
-- Certificat en Data Analysis – Université Numérique Cheikh Hamidou Kane (FORCE-N)
-- Certificat en data Engineering – Université Numérique Cheikh Hamidou Kane (FORCE-N)
-- Certificat en Intelligence Artificielle – Université Numérique Cheikh Hamidou Kane (FORCE-N)
+- [IBM Data Warehouse Engineer Professional Certificate](https://coursera.org/verify/professional-cert/KAM6C5CX1WAN)
+- [IBM Specialization – BI Foundations with SQL, ETL and Data Warehousing](https://coursera.org/verify/specialization/9NLQ3BCARXIR)
+- [IBM Specialization – Data Engineering Foundations](https://coursera.org/verify/specialization/TZK3DNK2A2XN)
+- [IBM Specialization – NoSQL, Big Data, and Spark Foundations](https://coursera.org/verify/specialization/N59IBHIA4H3H)
+- [Certificat en Data Analysis – Université Numérique Cheikh Hamidou Kane (FORCE-N)]
+- [Certificat en data Engineering – Université Numérique Cheikh Hamidou Kane (FORCE-N)]
+- [Certificat en Intelligence Artificielle – Université Numérique Cheikh Hamidou Kane (FORCE-N)]
 - Citizen Reporting Developer – Power BI (ARLA FOODS Digital Academy)
 - Chef d’équipe de Fabrication au Centre Sectoriel de Formation Professionnelle aux métiers des Industries Agroalimentaires (C.S.F.P/I.A.A)
 - Opérateur de Transformations de Céréales et Légumineuses au Centre Sectoriel de Formation Professionnelle aux métiers des Industries Agroalimentaires (C.S.F.P/I.A.A)
