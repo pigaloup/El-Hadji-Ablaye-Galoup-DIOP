@@ -81,7 +81,7 @@ Ce pojet consiste à Concevoir un pipeline ETL automatisé pour décongestionner
 
 ## 🎓 Formations clés
 
-- [IBM Data Engineering Professional Certificate] (https://www.coursera.org/account/accomplishments/specialization/certificate/6D664CJ5EW8F)
+- [IBM Data Engineering Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/6D664CJ5EW8F)
 - IBM Data Warehouse Engineer Professional Certificate 
 - IBM Specialization – BI Foundations with SQL, ETL and Data Warehousing
 - IBM Specialization – Data Engineering Foundations
