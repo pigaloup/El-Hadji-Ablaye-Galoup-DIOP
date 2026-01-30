@@ -70,7 +70,7 @@ Ce pojet consiste à Concevoir un pipeline ETL automatisé pour décongestionner
 |-------------------------------|-----------------------------------------------------------------------------------|   
 | Langages                      | Python, SQL                                                                       |
 | Big Data & Data Processing    | Apache Spark                                                                      |
-| Orchestration & Workflow	    |Apache Airflow                                                                     |
+| Orchestration & Workflow	    | Apache Airflow                                                                     |
 | Analyse                       | Excel, Pandas, Jupyter Notebook                                                   |
 | Visualisation                 | Power BI, Tableau, Matplotlib, Seaborn,Google Looker Studio, IBM Cognos Analytics |
 | Bases de données              | MySQL, MongoDB                                                                    |
@@ -81,6 +81,11 @@ Ce pojet consiste à Concevoir un pipeline ETL automatisé pour décongestionner
 
 ## 🎓 Formations clés
 
+- [IBM Data Engineering Professional Certificate] (https://www.coursera.org/account/accomplishments/specialization/certificate/6D664CJ5EW8F)
+- IBM Data Warehouse Engineer Professional Certificate 
+- IBM Specialization – BI Foundations with SQL, ETL and Data Warehousing
+- IBM Specialization – Data Engineering Foundations
+- IBM Specialization – NoSQL, Big Data, and Spark Foundations
 - Certificat en Data Analysis – Université Numérique Cheikh Hamidou Kane (FORCE-N)
 - Certificat en data Engineering – Université Numérique Cheikh Hamidou Kane (FORCE-N)
 - Certificat en Intelligence Artificielle – Université Numérique Cheikh Hamidou Kane (FORCE-N)
