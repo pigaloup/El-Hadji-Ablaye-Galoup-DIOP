@@ -96,7 +96,7 @@ Ce pojet consiste à Concevoir un pipeline ETL automatisé pour décongestionner
 - [IBM Data Warehouse Engineer Professional Certificate](https://coursera.org/verify/professional-cert/KAM6C5CX1WAN)
 - [IBM Specialization – BI Foundations with SQL, ETL and Data Warehousing](https://coursera.org/verify/specialization/9NLQ3BCARXIR)
 - [IBM Specialization – Data Engineering Foundations](https://coursera.org/verify/specialization/TZK3DNK2A2XN)
-- [IBM Specialization – NoSQL, Big Data, and Spark Foundations](https://coursera.org/verify/specialization/N59IBHIA4H3H)
+- [IBM Specialization – NoSQL, Big Data, and Spark Foundations](https://coursera.org/verify/specialization/N59IBHIA4H3H)(img/Analyse des données.pdf)
 - [Certificat en Data Analysis – Université Numérique Cheikh Hamidou Kane (FORCE-N)](https://formation.force-n.sn/mod/customcert/my_certificates.php?userid=28342&certificateid=37&downloadcert=1)
 - [Certificat en data Engineering – Université Numérique Cheikh Hamidou Kane (FORCE-N)](https://formation.forcen.sn/mod/customcert/my_certificates.php?userid=28342&certificateid=62&downloadcert=1))
 - [Certificat en Intelligence Artificielle – Université Numérique Cheikh Hamidou Kane (FORCE-N)](https://formation.force-n.sn/mod/customcert/my_certificates.php?userid=28342&certificateid=36&downloadcert=1)
