@@ -98,7 +98,7 @@ Ce pojet consiste à Concevoir un pipeline ETL automatisé pour décongestionner
 - [IBM Specialization – Data Engineering Foundations](https://coursera.org/verify/specialization/TZK3DNK2A2XN)
 - [IBM Specialization – NoSQL, Big Data, and Spark Foundations](https://coursera.org/verify/specialization/N59IBHIA4H3H)
 - [Certificat en Data Analysis – Université Numérique Cheikh Hamidou Kane (FORCE-N)](https://formation.force-n.sn/mod/customcert/my_certificates.php?userid=28342&certificateid=37&downloadcert=1)
-- [Certificat en data Engineering – Université Numérique Cheikh Hamidou Kane (FORCE-N)](Certificat en ingénierie des données.pdf)
+- [Certificat en data Engineering – Université Numérique Cheikh Hamidou Kane (FORCE-N)](image/Certificat en ingénierie des données.pdf)
 - [Certificat en Intelligence Artificielle – Université Numérique Cheikh Hamidou Kane (FORCE-N)](https://formation.force-n.sn/mod/customcert/my_certificates.php?userid=28342&certificateid=36&downloadcert=1)
 - Citizen Reporting Developer – Power BI (ARLA FOODS Digital Academy)
 - Chef d’équipe de Fabrication au Centre Sectoriel de Formation Professionnelle aux métiers des Industries Agroalimentaires (C.S.F.P/I.A.A)
