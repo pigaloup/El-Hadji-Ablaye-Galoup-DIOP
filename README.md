@@ -23,6 +23,17 @@ Analyser les performances du canal de distribution, par agents, par volume de ve
 
 ---
 
+### 📌 [Analyse des ventes et impact des promotions – Dashboard Power BI](https://github.com/pigaloup/DASHBORD-POWER-BI)
+## Description du projet
+
+Ce rapport interactif Power BI a été conçu pour analyser les performances commerciales à l’échelle des magasins et des départements. Il met en évidence les ventes totales, la croissance annuelle, la rentabilité estimée et l’impact des promotions sur les marges.
+
+- **Technologies** : Microsoft POWER BI   
+- **Objectif** : Optimiser la prise de décision commerciale  
+- **Résultat** :Ton dashboard est un outil de pilotage commercial qui aide à : Suivre les ventes et la croissance,Mesurer la rentabilité réelle, Évaluer l’efficacité des promotions et Prendre des décisions stratégiques basées sur des données fiables.
+
+---
+
 ### 📌 [Projet ETL - Météo NASA avec Airflow, Spark, MySQL et Analyse Météorologique](https://github.com/pigaloup/E.T.L-Projet_M-t-o_NASA-)
 ## Description du projet
 
