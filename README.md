@@ -23,7 +23,7 @@ Analyser les performances du canal de distribution, par agents, par volume de ve
 
 ---
 
-### 📌 [Analyse des ventes et impact des promotions – Dashboard Power BI][(https://github.com/pigaloup/DASHBORD-POWER-BI)](https://github.com/pigaloup/Analyse-des-ventes-et-impact-des-promotions-Dashboard-Power-BI)
+### 📌 [Analyse des ventes et impact des promotions – Dashboard Power BI](https://github.com/pigaloup/Analyse-des-ventes-et-impact-des-promotions-Dashboard-Power-BI)
 ## Description du projet
 
 Ce rapport interactif Power BI a été conçu pour analyser les performances commerciales à l’échelle des magasins et des départements. Il met en évidence les ventes totales, la croissance annuelle, la rentabilité estimée et l’impact des promotions sur les marges.
