@@ -27,7 +27,6 @@ Analyser les performances du canal de distribution, par agents, par volume de ve
 ## Description du projet
 
 Ce tableau de bord a été conçu pour répondre à une problématique métier concrète :
-
 Comment piloter efficacement une activité e-commerce en identifiant les leviers de croissance, les canaux d'acquisition performants et les catégories de produits les plus rentables ?
 
 Il s'adresse à des profils décisionnels (Direction Commerciale, Marketing, Supply Chain) et permet une lecture rapide des performances globales ainsi qu'une analyse détaillée par dimension (pays, canal, catégorie, genre, statut de commande).
