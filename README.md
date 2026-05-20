@@ -34,6 +34,7 @@ Il s'adresse à des profils décisionnels (Direction Commerciale, Marketing, Sup
 - **Technologies** : Microsoft POWER BI   
 - **Objectif** :Analyser les performances d'une activité e-commerce à travers des indicateurs clés de performance (KPI), des visualisations interactives et une segmentation multi-dimensionnelle 
 - **Résultat** :Un outil d'aide à la décision pour piloter, optimiser et développer l'activité de l'entreprise en ligne
+  
 ---
 
 ### 📌 [Analyse des ventes et impact des promotions – Dashboard Power BI](https://github.com/pigaloup/Analyse-des-ventes-et-impact-des-promotions-Dashboard-Power-BI)
