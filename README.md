@@ -23,6 +23,18 @@ Analyser les performances du canal de distribution, par agents, par volume de ve
 
 ---
 
+### 📌 [Tableau de bord d'analyse E-COMMERCE — Power BI](https://github.com/pigaloup/Projet-E-commerce-Analytics-Power-BI)
+## Description du projet
+
+Ce tableau de bord a été conçu pour répondre à une problématique métier concrète :
+Comment piloter efficacement une activité e-commerce en identifiant les leviers de croissance, les canaux d'acquisition performants et les catégories de produits les plus rentables ?
+Il s'adresse à des profils décisionnels (Direction Commerciale, Marketing, Supply Chain) et permet une lecture rapide des performances globales ainsi qu'une analyse détaillée par dimension (pays, canal, catégorie, genre, statut de commande).
+
+- **Technologies** : Microsoft POWER BI   
+- **Objectif** :Analyser les performances d'une activité e-commerce à travers des indicateurs clés de performance (KPI), des visualisations interactives et une segmentation multi-dimensionnelle 
+- **Résultat** :Un outil d'aide à la décision pour piloter, optimiser et développer l'activité de l'entreprise en ligne
+---
+
 ### 📌 [Analyse des ventes et impact des promotions – Dashboard Power BI](https://github.com/pigaloup/Analyse-des-ventes-et-impact-des-promotions-Dashboard-Power-BI)
 ## Description du projet
 
@@ -30,7 +42,7 @@ Ce rapport interactif Power BI a été conçu pour analyser les performances com
 
 - **Technologies** : Microsoft POWER BI   
 - **Objectif** : Optimiser la prise de décision commerciale  
-- **Résultat** :Ton dashboard est un outil de pilotage commercial qui aide à : Suivre les ventes et la croissance,Mesurer la rentabilité réelle, Évaluer l’efficacité des promotions et Prendre des décisions stratégiques basées sur des données fiables.
+- **Résultat** :Ce dashboard est un outil de pilotage commercial qui aide à : Suivre les ventes et la croissance,Mesurer la rentabilité réelle, Évaluer l’efficacité des promotions et Prendre des décisions stratégiques basées sur des données fiables.
 
 ---
 
