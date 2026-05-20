@@ -32,8 +32,8 @@ Comment piloter efficacement une activité e-commerce en identifiant les leviers
 Il s'adresse à des profils décisionnels (Direction Commerciale, Marketing, Supply Chain) et permet une lecture rapide des performances globales ainsi qu'une analyse détaillée par dimension (pays, canal, catégorie, genre, statut de commande).
 
 - **Technologies** : Microsoft POWER BI   
-- **Objectif** :Analyser les performances d'une activité e-commerce à travers des indicateurs clés de performance (KPI), des visualisations interactives et une segmentation multi-dimensionnelle 
-- **Résultat** :Un outil d'aide à la décision pour piloter, optimiser et développer l'activité de l'entreprise en ligne
+- **Objectif** : Analyser les performances d'une activité e-commerce à travers des indicateurs clés de performance (KPI), des visualisations interactives et une segmentation multi-dimensionnelle 
+- **Résultat** : Un outil d'aide à la décision pour piloter, optimiser et développer l'activité de l'entreprise en ligne
   
 ---
 
